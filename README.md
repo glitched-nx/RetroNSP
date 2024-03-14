@@ -4,7 +4,7 @@ Prerequisites: A Switch with Homebrew, Tinfoil and Retroarch (USB File-transfer 
 
 Instructions:
 	-unzip this folder
-	-plug your Switch into your computer and launch either Tinfoil or USB File-transfer (recommended)
+ 	-plug your Switch into your computer and launch either Tinfoil or USB File-transfer (recommended)
 	-copy the ROMs folder to the root of your SD card
 	-copy the nro core files to your Retroarch cores folder, your file path must be (/retroarch/cores/"corename"_libretro_libnx.nro) where "corename" is the name of the core (Citra, desmume, mgba)
 	-run the NUT and wait for the menu to open
