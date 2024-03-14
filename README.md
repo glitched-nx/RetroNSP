@@ -3,7 +3,7 @@ This is a full setup of a collection of retro Nintendo games on the home page of
 Prerequisites: A Switch with Homebrew, Tinfoil and Retroarch (USB File-transfer recommended)
 
 Instructions:
--unzip this folder
+\n-unzip this folder
  -plug your Switch into your computer and launch either Tinfoil or USB File-transfer (recommended)
 -copy the ROMs folder to the root of your SD card
 -copy the nro core files to your Retroarch cores folder, your file path must be (/retroarch/cores/"corename"_libretro_libnx.nro) where "corename" is the name of the core (Citra, desmume, mgba)
